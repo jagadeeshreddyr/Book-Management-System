@@ -1,0 +1,1001 @@
+book_id,title,author,genre,average_rating
+1,Book 522,Author D,Biography,1.45
+2,Book 738,Author B,Non-Fiction,1.35
+3,Book 741,Author E,Mystery,3.88
+4,Book 661,Author B,Mystery,2.68
+5,Book 412,Author D,Biography,4.62
+6,Book 679,Author A,Biography,3.96
+7,Book 627,Author E,Non-Fiction,1.77
+8,Book 514,Author A,Non-Fiction,3.46
+9,Book 860,Author A,Biography,2.74
+10,Book 137,Author A,Fiction,3.31
+11,Book 812,Author C,Mystery,3.95
+12,Book 77,Author C,Fantasy,4.22
+13,Book 637,Author A,Non-Fiction,4.37
+14,Book 974,Author E,Non-Fiction,2.02
+15,Book 939,Author D,Biography,1.12
+16,Book 900,Author D,Science Fiction,3.96
+17,Book 281,Author B,Fantasy,1.43
+18,Book 884,Author E,Fantasy,2.26
+19,Book 762,Author C,Non-Fiction,1.02
+20,Book 320,Author A,Fiction,3.73
+21,Book 550,Author B,Science Fiction,1.67
+22,Book 175,Author D,Fantasy,3.62
+23,Book 372,Author C,Non-Fiction,4.97
+24,Book 528,Author C,Fantasy,1.29
+25,Book 211,Author A,Science Fiction,1.31
+26,Book 236,Author D,Science Fiction,2.36
+27,Book 102,Author E,Mystery,4.47
+28,Book 987,Author C,Biography,1.86
+29,Book 903,Author A,Biography,2.44
+30,Book 948,Author E,Non-Fiction,1.27
+31,Book 347,Author D,Science Fiction,4.05
+32,Book 140,Author C,Mystery,2.63
+33,Book 622,Author E,Mystery,4.04
+34,Book 500,Author E,Fantasy,4.61
+35,Book 371,Author E,Fantasy,1.93
+36,Book 199,Author C,Mystery,4.23
+37,Book 688,Author C,Fantasy,1.24
+38,Book 585,Author B,Science Fiction,4.6
+39,Book 902,Author D,Fiction,3.6
+40,Book 60,Author A,Science Fiction,4.5
+41,Book 329,Author E,Mystery,1.0
+42,Book 97,Author B,Mystery,1.68
+43,Book 313,Author A,Science Fiction,2.56
+44,Book 975,Author B,Fantasy,2.52
+45,Book 300,Author C,Fantasy,1.91
+46,Book 278,Author E,Biography,2.53
+47,Book 925,Author A,Mystery,1.52
+48,Book 602,Author A,Non-Fiction,2.65
+49,Book 440,Author A,Biography,4.21
+50,Book 838,Author A,Fantasy,2.92
+51,Book 571,Author A,Science Fiction,1.07
+52,Book 880,Author B,Fantasy,2.69
+53,Book 262,Author E,Science Fiction,1.11
+54,Book 579,Author C,Biography,4.86
+55,Book 24,Author C,Mystery,1.51
+56,Book 31,Author C,Fantasy,3.83
+57,Book 618,Author C,Science Fiction,4.89
+58,Book 11,Author B,Mystery,4.3
+59,Book 222,Author D,Non-Fiction,3.8
+60,Book 821,Author E,Science Fiction,4.36
+61,Book 297,Author A,Biography,4.93
+62,Book 55,Author D,Non-Fiction,3.49
+63,Book 543,Author C,Non-Fiction,3.24
+64,Book 210,Author D,Fiction,3.51
+65,Book 605,Author E,Fantasy,3.13
+66,Book 693,Author A,Science Fiction,3.54
+67,Book 663,Author A,Non-Fiction,2.8
+68,Book 867,Author E,Fiction,1.87
+69,Book 71,Author E,Biography,1.48
+70,Book 544,Author C,Mystery,1.27
+71,Book 108,Author A,Science Fiction,2.05
+72,Book 494,Author D,Non-Fiction,1.18
+73,Book 591,Author B,Fantasy,3.27
+74,Book 742,Author B,Fiction,2.14
+75,Book 293,Author E,Non-Fiction,4.3
+76,Book 290,Author C,Fantasy,1.3
+77,Book 653,Author B,Non-Fiction,1.91
+78,Book 40,Author A,Science Fiction,3.92
+79,Book 590,Author E,Science Fiction,3.4
+80,Book 308,Author D,Science Fiction,1.26
+81,Book 680,Author E,Biography,4.51
+82,Book 67,Author D,Biography,4.51
+83,Book 276,Author E,Fiction,2.32
+84,Book 68,Author E,Science Fiction,2.36
+85,Book 319,Author E,Fantasy,4.96
+86,Book 549,Author D,Non-Fiction,3.5
+87,Book 999,Author D,Mystery,3.13
+88,Book 715,Author E,Fantasy,4.35
+89,Book 754,Author B,Biography,2.14
+90,Book 328,Author C,Biography,2.72
+91,Book 383,Author C,Fantasy,2.07
+92,Book 452,Author C,Biography,4.16
+93,Book 523,Author D,Science Fiction,3.29
+94,Book 219,Author D,Fiction,3.64
+95,Book 788,Author B,Non-Fiction,2.01
+96,Book 437,Author C,Fiction,1.88
+97,Book 765,Author C,Non-Fiction,2.95
+98,Book 89,Author E,Non-Fiction,3.95
+99,Book 64,Author D,Fiction,3.1
+100,Book 827,Author C,Fantasy,1.13
+101,Book 717,Author B,Non-Fiction,4.47
+102,Book 352,Author B,Fiction,1.26
+103,Book 937,Author C,Non-Fiction,4.82
+104,Book 257,Author D,Mystery,1.1
+105,Book 636,Author B,Fantasy,3.78
+106,Book 645,Author E,Science Fiction,1.33
+107,Book 555,Author B,Non-Fiction,4.64
+108,Book 960,Author A,Mystery,2.86
+109,Book 169,Author A,Science Fiction,1.55
+110,Book 918,Author D,Science Fiction,2.36
+111,Book 529,Author C,Non-Fiction,1.66
+112,Book 824,Author D,Fiction,1.68
+113,Book 986,Author D,Non-Fiction,4.79
+114,Book 817,Author D,Mystery,2.78
+115,Book 87,Author D,Science Fiction,4.16
+116,Book 433,Author E,Non-Fiction,3.56
+117,Book 185,Author E,Fiction,3.71
+118,Book 979,Author B,Non-Fiction,1.53
+119,Book 535,Author A,Fantasy,1.94
+120,Book 295,Author D,Fiction,4.15
+121,Book 893,Author B,Mystery,4.88
+122,Book 426,Author A,Science Fiction,2.05
+123,Book 714,Author C,Non-Fiction,2.09
+124,Book 261,Author E,Fiction,2.89
+125,Book 238,Author A,Fantasy,4.94
+126,Book 560,Author C,Fiction,2.08
+127,Book 584,Author A,Biography,2.63
+128,Book 446,Author E,Fantasy,4.57
+129,Book 868,Author E,Mystery,1.01
+130,Book 801,Author B,Science Fiction,1.16
+131,Book 600,Author D,Mystery,3.42
+132,Book 850,Author A,Non-Fiction,4.63
+133,Book 266,Author A,Fiction,1.96
+134,Book 996,Author C,Biography,2.88
+135,Book 530,Author E,Fantasy,2.8
+136,Book 56,Author A,Fantasy,2.89
+137,Book 121,Author E,Fiction,3.49
+138,Book 216,Author A,Biography,2.88
+139,Book 26,Author B,Fiction,2.79
+140,Book 73,Author D,Non-Fiction,2.9
+141,Book 45,Author A,Mystery,3.36
+142,Book 248,Author E,Fantasy,3.15
+143,Book 722,Author B,Non-Fiction,4.42
+144,Book 282,Author A,Mystery,1.2
+145,Book 894,Author C,Non-Fiction,4.33
+146,Book 915,Author D,Biography,4.38
+147,Book 811,Author A,Fantasy,2.14
+148,Book 245,Author B,Fiction,2.85
+149,Book 823,Author C,Fiction,2.75
+150,Book 322,Author B,Mystery,1.87
+151,Book 644,Author B,Science Fiction,2.59
+152,Book 159,Author C,Biography,1.18
+153,Book 978,Author B,Mystery,2.11
+154,Book 430,Author C,Science Fiction,4.27
+155,Book 942,Author A,Non-Fiction,2.14
+156,Book 463,Author C,Biography,4.27
+157,Book 310,Author C,Non-Fiction,3.13
+158,Book 698,Author D,Fantasy,4.52
+159,Book 61,Author C,Biography,3.3
+160,Book 885,Author C,Science Fiction,1.12
+161,Book 596,Author A,Fantasy,3.7
+162,Book 768,Author D,Fiction,1.18
+163,Book 650,Author E,Science Fiction,2.8
+164,Book 651,Author A,Mystery,4.72
+165,Book 866,Author A,Fiction,1.66
+166,Book 669,Author E,Fiction,2.56
+167,Book 299,Author C,Mystery,3.92
+168,Book 690,Author B,Biography,4.53
+169,Book 315,Author D,Fiction,3.68
+170,Book 311,Author B,Science Fiction,2.03
+171,Book 362,Author E,Fantasy,3.7
+172,Book 480,Author A,Fiction,2.19
+173,Book 111,Author A,Science Fiction,3.87
+174,Book 990,Author D,Non-Fiction,4.82
+175,Book 487,Author A,Science Fiction,3.89
+176,Book 364,Author A,Fantasy,4.45
+177,Book 255,Author D,Science Fiction,1.01
+178,Book 260,Author D,Mystery,3.87
+179,Book 803,Author E,Fantasy,4.32
+180,Book 678,Author A,Biography,1.16
+181,Book 495,Author A,Non-Fiction,4.49
+182,Book 671,Author E,Mystery,2.03
+183,Book 378,Author C,Biography,3.66
+184,Book 527,Author C,Science Fiction,4.2
+185,Book 846,Author C,Fantasy,3.65
+186,Book 138,Author E,Non-Fiction,1.37
+187,Book 356,Author A,Mystery,3.39
+188,Book 366,Author E,Biography,3.2
+189,Book 943,Author E,Biography,4.6
+190,Book 750,Author C,Non-Fiction,2.62
+191,Book 949,Author B,Science Fiction,2.28
+192,Book 830,Author A,Non-Fiction,4.0
+193,Book 657,Author C,Biography,2.65
+194,Book 200,Author B,Fiction,3.58
+195,Book 214,Author B,Mystery,3.59
+196,Book 409,Author D,Non-Fiction,4.55
+197,Book 333,Author A,Biography,3.39
+198,Book 209,Author B,Science Fiction,3.01
+199,Book 614,Author C,Biography,1.56
+200,Book 79,Author D,Science Fiction,1.46
+201,Book 30,Author A,Non-Fiction,1.62
+202,Book 536,Author E,Science Fiction,1.69
+203,Book 696,Author C,Fantasy,3.55
+204,Book 558,Author B,Fantasy,3.96
+205,Book 837,Author B,Fantasy,3.12
+206,Book 597,Author C,Fiction,4.32
+207,Book 166,Author B,Non-Fiction,4.97
+208,Book 919,Author D,Biography,4.28
+209,Book 496,Author A,Biography,3.78
+210,Book 825,Author D,Fiction,3.13
+211,Book 66,Author B,Science Fiction,2.8
+212,Book 142,Author E,Fiction,1.34
+213,Book 926,Author A,Science Fiction,2.6
+214,Book 828,Author A,Science Fiction,4.64
+215,Book 656,Author C,Mystery,4.23
+216,Book 332,Author C,Biography,1.86
+217,Book 665,Author E,Fantasy,2.87
+218,Book 250,Author A,Science Fiction,4.27
+219,Book 908,Author E,Mystery,1.27
+220,Book 709,Author C,Biography,2.55
+221,Book 306,Author C,Fantasy,4.41
+222,Book 735,Author A,Science Fiction,2.62
+223,Book 976,Author D,Science Fiction,1.31
+224,Book 50,Author B,Fiction,3.17
+225,Book 897,Author C,Fiction,4.45
+226,Book 3,Author C,Biography,3.36
+227,Book 545,Author D,Fantasy,1.91
+228,Book 351,Author D,Science Fiction,2.54
+229,Book 905,Author E,Biography,2.8
+230,Book 537,Author E,Biography,3.32
+231,Book 345,Author B,Non-Fiction,4.04
+232,Book 995,Author B,Fiction,1.4
+233,Book 482,Author A,Fantasy,4.56
+234,Book 576,Author E,Science Fiction,1.05
+235,Book 34,Author C,Biography,2.48
+236,Book 32,Author E,Science Fiction,1.11
+237,Book 232,Author C,Non-Fiction,2.57
+238,Book 964,Author D,Fantasy,3.1
+239,Book 193,Author E,Biography,3.05
+240,Book 334,Author D,Science Fiction,1.66
+241,Book 4,Author B,Fiction,3.58
+242,Book 205,Author B,Non-Fiction,1.18
+243,Book 515,Author A,Fantasy,4.05
+244,Book 800,Author E,Non-Fiction,4.79
+245,Book 307,Author D,Fiction,2.36
+246,Book 110,Author C,Fantasy,3.07
+247,Book 431,Author B,Non-Fiction,2.52
+248,Book 78,Author B,Mystery,1.03
+249,Book 85,Author C,Fiction,2.54
+250,Book 287,Author D,Fiction,4.17
+251,Book 83,Author D,Fiction,3.38
+252,Book 992,Author E,Mystery,1.41
+253,Book 790,Author E,Mystery,4.39
+254,Book 895,Author A,Science Fiction,3.12
+255,Book 399,Author B,Biography,4.37
+256,Book 324,Author E,Non-Fiction,3.32
+257,Book 520,Author D,Science Fiction,3.24
+258,Book 917,Author C,Non-Fiction,1.42
+259,Book 923,Author D,Biography,1.67
+260,Book 6,Author B,Mystery,4.89
+261,Book 732,Author D,Biography,1.91
+262,Book 466,Author A,Mystery,4.91
+263,Book 98,Author B,Biography,3.13
+264,Book 267,Author C,Science Fiction,1.54
+265,Book 358,Author A,Fantasy,1.4
+266,Book 869,Author B,Science Fiction,1.84
+267,Book 799,Author C,Non-Fiction,4.7
+268,Book 381,Author A,Science Fiction,2.66
+269,Book 632,Author A,Fiction,2.58
+270,Book 382,Author B,Non-Fiction,2.25
+271,Book 491,Author E,Biography,1.59
+272,Book 119,Author A,Non-Fiction,2.95
+273,Book 901,Author A,Fantasy,1.52
+274,Book 251,Author C,Mystery,4.34
+275,Book 524,Author D,Biography,2.48
+276,Book 10,Author B,Non-Fiction,2.5
+277,Book 197,Author B,Biography,2.9
+278,Book 604,Author E,Biography,2.78
+279,Book 82,Author E,Biography,4.98
+280,Book 784,Author B,Mystery,3.18
+281,Book 588,Author E,Science Fiction,1.35
+282,Book 798,Author C,Biography,3.43
+283,Book 240,Author B,Fiction,1.61
+284,Book 291,Author E,Fantasy,1.12
+285,Book 212,Author B,Mystery,4.88
+286,Book 718,Author D,Non-Fiction,4.09
+287,Book 360,Author A,Mystery,4.92
+288,Book 450,Author B,Non-Fiction,2.91
+289,Book 228,Author A,Mystery,3.13
+290,Book 951,Author E,Non-Fiction,1.67
+291,Book 947,Author A,Biography,1.99
+292,Book 797,Author B,Science Fiction,4.35
+293,Book 502,Author D,Non-Fiction,2.42
+294,Book 465,Author E,Non-Fiction,4.31
+295,Book 363,Author B,Fiction,3.84
+296,Book 469,Author E,Non-Fiction,1.71
+297,Book 936,Author C,Fiction,3.03
+298,Book 429,Author A,Fantasy,3.71
+299,Book 8,Author C,Biography,1.94
+300,Book 156,Author B,Fiction,4.32
+301,Book 542,Author D,Science Fiction,3.18
+302,Book 441,Author E,Biography,1.66
+303,Book 483,Author A,Fiction,3.33
+304,Book 423,Author E,Biography,5.0
+305,Book 779,Author B,Biography,1.6
+306,Book 950,Author E,Biography,4.27
+307,Book 335,Author A,Fantasy,1.83
+308,Book 577,Author B,Science Fiction,4.13
+309,Book 935,Author E,Mystery,3.94
+310,Book 568,Author D,Mystery,2.2
+311,Book 595,Author B,Fiction,2.3
+312,Book 531,Author B,Biography,4.17
+313,Book 582,Author D,Fiction,2.85
+314,Book 708,Author C,Fantasy,3.92
+315,Book 449,Author A,Fantasy,1.59
+316,Book 454,Author C,Non-Fiction,4.41
+317,Book 229,Author E,Fantasy,3.84
+318,Book 353,Author D,Non-Fiction,4.63
+319,Book 729,Author C,Science Fiction,1.53
+320,Book 213,Author B,Fiction,3.37
+321,Book 80,Author E,Science Fiction,3.4
+322,Book 149,Author E,Fantasy,2.41
+323,Book 303,Author C,Science Fiction,2.83
+324,Book 629,Author C,Science Fiction,1.15
+325,Book 778,Author D,Science Fiction,3.98
+326,Book 507,Author A,Fantasy,3.2
+327,Book 343,Author C,Biography,1.23
+328,Book 486,Author C,Science Fiction,3.72
+329,Book 712,Author B,Non-Fiction,2.87
+330,Book 134,Author E,Fantasy,1.14
+331,Book 704,Author A,Science Fiction,4.88
+332,Book 312,Author B,Biography,4.8
+333,Book 723,Author D,Fantasy,3.05
+334,Book 630,Author D,Mystery,1.37
+335,Book 1,Author C,Biography,4.02
+336,Book 317,Author C,Non-Fiction,2.97
+337,Book 707,Author D,Science Fiction,2.21
+338,Book 548,Author C,Mystery,2.97
+339,Book 873,Author A,Mystery,3.09
+340,Book 533,Author C,Fantasy,3.25
+341,Book 478,Author E,Mystery,2.76
+342,Book 405,Author C,Non-Fiction,3.42
+343,Book 173,Author B,Non-Fiction,4.67
+344,Book 126,Author A,Fiction,2.45
+345,Book 395,Author B,Non-Fiction,3.9
+346,Book 421,Author B,Biography,4.58
+347,Book 553,Author E,Mystery,2.82
+348,Book 904,Author A,Non-Fiction,2.77
+349,Book 91,Author A,Fantasy,3.41
+350,Book 940,Author A,Fiction,3.37
+351,Book 182,Author A,Mystery,4.23
+352,Book 275,Author A,Fiction,2.91
+353,Book 896,Author E,Mystery,4.98
+354,Book 70,Author C,Fantasy,1.24
+355,Book 292,Author B,Fiction,1.01
+356,Book 132,Author A,Science Fiction,3.56
+357,Book 301,Author C,Biography,2.19
+358,Book 425,Author C,Biography,1.96
+359,Book 327,Author B,Mystery,2.25
+360,Book 145,Author E,Science Fiction,2.02
+361,Book 424,Author D,Fiction,1.12
+362,Book 581,Author D,Science Fiction,4.89
+363,Book 136,Author C,Science Fiction,1.88
+364,Book 451,Author B,Fiction,3.94
+365,Book 165,Author D,Fantasy,4.05
+366,Book 29,Author C,Science Fiction,4.72
+367,Book 774,Author E,Science Fiction,1.12
+368,Book 194,Author D,Fantasy,4.49
+369,Book 389,Author C,Science Fiction,3.11
+370,Book 853,Author C,Science Fiction,3.53
+371,Book 170,Author A,Science Fiction,3.58
+372,Book 706,Author E,Biography,4.28
+373,Book 141,Author A,Non-Fiction,2.33
+374,Book 174,Author B,Fantasy,3.93
+375,Book 7,Author A,Science Fiction,3.11
+376,Book 746,Author A,Biography,4.17
+377,Book 479,Author D,Fantasy,4.96
+378,Book 74,Author C,Mystery,1.8
+379,Book 911,Author E,Mystery,4.98
+380,Book 814,Author A,Science Fiction,1.36
+381,Book 239,Author E,Biography,1.01
+382,Book 146,Author A,Biography,1.18
+383,Book 793,Author B,Fantasy,2.37
+384,Book 235,Author A,Fantasy,3.53
+385,Book 221,Author D,Biography,1.28
+386,Book 924,Author C,Fantasy,1.02
+387,Book 501,Author B,Biography,4.75
+388,Book 133,Author A,Non-Fiction,4.29
+389,Book 991,Author E,Biography,4.24
+390,Book 775,Author B,Mystery,4.54
+391,Book 186,Author B,Fantasy,3.8
+392,Book 42,Author A,Biography,1.42
+393,Book 697,Author B,Biography,2.6
+394,Book 109,Author E,Fantasy,3.89
+395,Book 589,Author B,Non-Fiction,2.12
+396,Book 57,Author E,Non-Fiction,3.75
+397,Book 406,Author A,Fantasy,1.1
+398,Book 443,Author C,Fiction,2.22
+399,Book 758,Author B,Fantasy,3.2
+400,Book 998,Author C,Fantasy,3.53
+401,Book 25,Author E,Non-Fiction,3.31
+402,Book 468,Author B,Non-Fiction,3.79
+403,Book 540,Author D,Fantasy,1.02
+404,Book 532,Author C,Fantasy,1.4
+405,Book 619,Author B,Fantasy,4.48
+406,Book 695,Author C,Non-Fiction,3.73
+407,Book 927,Author B,Fantasy,1.45
+408,Book 339,Author A,Fantasy,4.37
+409,Book 52,Author C,Science Fiction,1.97
+410,Book 508,Author D,Fiction,2.91
+411,Book 517,Author D,Mystery,1.58
+412,Book 921,Author E,Fiction,3.84
+413,Book 782,Author B,Science Fiction,3.67
+414,Book 265,Author C,Mystery,1.84
+415,Book 818,Author E,Fantasy,4.45
+416,Book 711,Author C,Science Fiction,2.61
+417,Book 683,Author B,Fantasy,2.17
+418,Book 833,Author D,Non-Fiction,1.61
+419,Book 519,Author A,Biography,2.06
+420,Book 448,Author D,Science Fiction,1.09
+421,Book 19,Author E,Non-Fiction,3.33
+422,Book 716,Author A,Science Fiction,4.37
+423,Book 484,Author E,Science Fiction,3.2
+424,Book 569,Author B,Non-Fiction,1.88
+425,Book 434,Author A,Mystery,1.13
+426,Book 368,Author E,Fiction,1.86
+427,Book 84,Author B,Fantasy,2.66
+428,Book 62,Author D,Science Fiction,4.04
+429,Book 639,Author B,Fantasy,1.75
+430,Book 273,Author C,Biography,3.88
+431,Book 286,Author B,Non-Fiction,4.47
+432,Book 361,Author B,Fantasy,2.82
+433,Book 355,Author C,Non-Fiction,4.29
+434,Book 457,Author E,Fantasy,3.22
+435,Book 279,Author E,Fiction,3.55
+436,Book 13,Author B,Fiction,3.11
+437,Book 183,Author C,Fiction,2.85
+438,Book 369,Author C,Fiction,1.94
+439,Book 882,Author D,Fiction,2.21
+440,Book 616,Author E,Fiction,2.16
+441,Book 224,Author A,Non-Fiction,3.25
+442,Book 573,Author E,Science Fiction,1.48
+443,Book 971,Author E,Fantasy,4.67
+444,Book 654,Author D,Fiction,3.88
+445,Book 546,Author A,Non-Fiction,2.61
+446,Book 583,Author D,Non-Fiction,1.63
+447,Book 634,Author A,Non-Fiction,4.53
+448,Book 177,Author B,Science Fiction,4.3
+449,Book 666,Author A,Fantasy,3.89
+450,Book 674,Author D,Science Fiction,2.09
+451,Book 586,Author E,Mystery,2.61
+452,Book 874,Author A,Non-Fiction,1.41
+453,Book 394,Author A,Mystery,1.76
+454,Book 164,Author C,Biography,4.13
+455,Book 249,Author E,Fiction,3.86
+456,Book 635,Author B,Fiction,3.37
+457,Book 886,Author D,Science Fiction,4.58
+458,Book 670,Author B,Fantasy,3.33
+459,Book 376,Author E,Mystery,2.87
+460,Book 413,Author A,Fantasy,2.36
+461,Book 75,Author A,Science Fiction,4.76
+462,Book 114,Author E,Fiction,1.33
+463,Book 599,Author A,Fantasy,4.72
+464,Book 962,Author A,Fantasy,4.31
+465,Book 391,Author A,Fiction,1.52
+466,Book 105,Author D,Mystery,3.26
+467,Book 115,Author D,Fiction,4.47
+468,Book 418,Author C,Fantasy,3.29
+469,Book 526,Author B,Mystery,4.63
+470,Book 458,Author E,Mystery,4.77
+471,Book 410,Author E,Fiction,2.69
+472,Book 93,Author E,Fantasy,2.51
+473,Book 931,Author C,Science Fiction,4.75
+474,Book 90,Author D,Fantasy,3.7
+475,Book 337,Author C,Non-Fiction,1.46
+476,Book 989,Author E,Biography,1.17
+477,Book 922,Author B,Science Fiction,3.26
+478,Book 934,Author A,Mystery,4.72
+479,Book 606,Author D,Science Fiction,4.38
+480,Book 594,Author D,Mystery,3.7
+481,Book 612,Author C,Mystery,1.56
+482,Book 95,Author D,Science Fiction,2.02
+483,Book 12,Author E,Mystery,4.5
+484,Book 397,Author E,Mystery,1.73
+485,Book 534,Author C,Non-Fiction,2.11
+486,Book 44,Author E,Fantasy,1.52
+487,Book 43,Author B,Fantasy,3.7
+488,Book 330,Author C,Biography,4.78
+489,Book 168,Author B,Biography,2.08
+490,Book 498,Author A,Non-Fiction,2.9
+491,Book 877,Author B,Biography,3.54
+492,Book 598,Author A,Science Fiction,5.0
+493,Book 757,Author A,Fiction,1.42
+494,Book 101,Author B,Fiction,2.99
+495,Book 427,Author C,Fiction,2.54
+496,Book 179,Author E,Non-Fiction,4.46
+497,Book 445,Author E,Non-Fiction,2.9
+498,Book 417,Author A,Mystery,1.44
+499,Book 871,Author A,Fiction,3.54
+500,Book 883,Author C,Science Fiction,4.08
+501,Book 681,Author D,Biography,1.01
+502,Book 178,Author B,Science Fiction,4.44
+503,Book 396,Author A,Biography,1.74
+504,Book 912,Author E,Fiction,3.21
+505,Book 794,Author C,Fiction,2.66
+506,Book 961,Author B,Fiction,3.88
+507,Book 685,Author C,Non-Fiction,2.48
+508,Book 384,Author B,Biography,4.48
+509,Book 957,Author B,Non-Fiction,3.92
+510,Book 752,Author A,Non-Fiction,3.59
+511,Book 258,Author C,Fantasy,4.18
+512,Book 539,Author C,Science Fiction,4.02
+513,Book 336,Author E,Science Fiction,1.14
+514,Book 16,Author E,Mystery,2.58
+515,Book 325,Author A,Non-Fiction,4.72
+516,Book 759,Author A,Biography,1.5
+517,Book 223,Author D,Fantasy,3.95
+518,Book 180,Author E,Fantasy,4.9
+519,Book 984,Author B,Science Fiction,1.21
+520,Book 23,Author C,Non-Fiction,3.73
+521,Book 357,Author A,Mystery,2.87
+522,Book 667,Author C,Non-Fiction,3.32
+523,Book 862,Author C,Fiction,1.34
+524,Book 341,Author D,Non-Fiction,1.17
+525,Book 432,Author E,Fiction,3.67
+526,Book 552,Author A,Fiction,4.29
+527,Book 834,Author C,Mystery,4.13
+528,Book 204,Author A,Biography,3.18
+529,Book 631,Author B,Science Fiction,1.4
+530,Book 94,Author D,Non-Fiction,3.75
+531,Book 559,Author B,Fiction,1.97
+532,Book 69,Author A,Non-Fiction,4.64
+533,Book 623,Author A,Biography,4.35
+534,Book 285,Author E,Science Fiction,3.84
+535,Book 845,Author C,Biography,4.8
+536,Book 435,Author C,Science Fiction,1.13
+537,Book 154,Author B,Fantasy,3.94
+538,Book 76,Author D,Science Fiction,2.32
+539,Book 731,Author C,Mystery,4.62
+540,Book 447,Author E,Biography,2.07
+541,Book 189,Author B,Fiction,3.9
+542,Book 272,Author B,Fantasy,4.51
+543,Book 237,Author E,Mystery,1.17
+544,Book 488,Author D,Non-Fiction,2.59
+545,Book 118,Author E,Biography,4.05
+546,Book 944,Author D,Fiction,2.82
+547,Book 513,Author E,Science Fiction,2.07
+548,Book 826,Author E,Fiction,1.88
+549,Book 592,Author A,Non-Fiction,1.53
+550,Book 127,Author B,Fantasy,4.43
+551,Book 117,Author E,Fantasy,3.3
+552,Book 474,Author E,Biography,1.31
+553,Book 694,Author C,Fantasy,2.53
+554,Book 58,Author B,Biography,2.47
+555,Book 864,Author C,Biography,1.73
+556,Book 913,Author B,Biography,2.74
+557,Book 370,Author C,Science Fiction,2.33
+558,Book 269,Author E,Mystery,2.37
+559,Book 47,Author E,Biography,3.96
+560,Book 350,Author A,Biography,1.89
+561,Book 196,Author C,Mystery,3.57
+562,Book 1000,Author D,Fiction,3.28
+563,Book 835,Author A,Biography,3.27
+564,Book 737,Author C,Science Fiction,3.65
+565,Book 264,Author C,Fantasy,3.19
+566,Book 444,Author A,Fantasy,4.52
+567,Book 676,Author E,Non-Fiction,3.7
+568,Book 305,Author C,Non-Fiction,3.19
+569,Book 342,Author E,Fantasy,4.32
+570,Book 967,Author A,Fantasy,3.42
+571,Book 150,Author E,Science Fiction,2.16
+572,Book 125,Author B,Mystery,1.83
+573,Book 787,Author D,Non-Fiction,1.61
+574,Book 51,Author C,Mystery,4.6
+575,Book 354,Author D,Science Fiction,3.84
+576,Book 928,Author E,Fantasy,4.75
+577,Book 143,Author C,Biography,3.41
+578,Book 471,Author E,Mystery,2.89
+579,Book 400,Author B,Fantasy,1.24
+580,Book 626,Author A,Fantasy,3.69
+581,Book 321,Author C,Fiction,3.33
+582,Book 20,Author B,Mystery,4.96
+583,Book 810,Author B,Biography,1.96
+584,Book 791,Author C,Mystery,3.12
+585,Book 809,Author E,Fantasy,3.6
+586,Book 408,Author B,Biography,3.58
+587,Book 538,Author D,Science Fiction,3.25
+588,Book 621,Author B,Fiction,4.11
+589,Book 39,Author E,Fantasy,1.82
+590,Book 176,Author E,Non-Fiction,3.9
+591,Book 246,Author D,Non-Fiction,3.48
+592,Book 829,Author B,Fiction,4.58
+593,Book 668,Author E,Science Fiction,4.39
+594,Book 755,Author C,Fantasy,2.26
+595,Book 859,Author A,Mystery,2.1
+596,Book 155,Author A,Fiction,4.93
+597,Book 288,Author A,Science Fiction,3.11
+598,Book 603,Author B,Mystery,4.63
+599,Book 570,Author D,Non-Fiction,1.66
+600,Book 744,Author E,Non-Fiction,3.57
+601,Book 18,Author C,Mystery,4.24
+602,Book 128,Author C,Fiction,4.79
+603,Book 323,Author B,Non-Fiction,2.35
+604,Book 256,Author A,Fantasy,3.9
+605,Book 658,Author B,Biography,3.16
+606,Book 965,Author D,Mystery,1.24
+607,Book 191,Author D,Mystery,3.76
+608,Book 116,Author E,Non-Fiction,3.76
+609,Book 617,Author E,Fiction,4.72
+610,Book 607,Author D,Fantasy,2.99
+611,Book 181,Author D,Fiction,1.92
+612,Book 302,Author D,Science Fiction,1.18
+613,Book 760,Author B,Science Fiction,2.66
+614,Book 713,Author D,Biography,2.21
+615,Book 724,Author C,Non-Fiction,4.04
+616,Book 686,Author A,Non-Fiction,2.42
+617,Book 980,Author D,Non-Fiction,4.8
+618,Book 518,Author A,Biography,4.85
+619,Book 985,Author B,Science Fiction,3.48
+620,Book 46,Author A,Fiction,4.71
+621,Book 910,Author B,Biography,4.04
+622,Book 158,Author C,Biography,3.19
+623,Book 852,Author B,Fiction,1.72
+624,Book 172,Author B,Non-Fiction,2.83
+625,Book 17,Author E,Fantasy,3.24
+626,Book 512,Author D,Fiction,4.46
+627,Book 49,Author D,Science Fiction,2.93
+628,Book 972,Author C,Mystery,4.59
+629,Book 941,Author C,Mystery,3.7
+630,Book 516,Author D,Biography,1.55
+631,Book 953,Author E,Mystery,4.98
+632,Book 481,Author D,Fantasy,3.11
+633,Book 284,Author E,Non-Fiction,2.57
+634,Book 719,Author C,Science Fiction,3.64
+635,Book 878,Author A,Fantasy,1.44
+636,Book 226,Author C,Science Fiction,3.55
+637,Book 27,Author C,Science Fiction,2.99
+638,Book 955,Author B,Non-Fiction,2.63
+639,Book 438,Author B,Biography,4.81
+640,Book 952,Author B,Mystery,3.09
+641,Book 365,Author B,Non-Fiction,1.88
+642,Book 230,Author E,Fantasy,2.84
+643,Book 38,Author D,Biography,4.68
+644,Book 966,Author A,Fantasy,1.7
+645,Book 375,Author C,Biography,1.86
+646,Book 470,Author E,Fantasy,1.05
+647,Book 968,Author A,Non-Fiction,1.06
+648,Book 851,Author E,Biography,4.32
+649,Book 705,Author E,Biography,3.93
+650,Book 842,Author C,Science Fiction,2.42
+651,Book 195,Author D,Science Fiction,3.79
+652,Book 855,Author B,Fiction,2.58
+653,Book 865,Author D,Fantasy,4.81
+654,Book 504,Author C,Science Fiction,4.87
+655,Book 970,Author C,Fiction,2.57
+656,Book 831,Author C,Science Fiction,4.42
+657,Book 580,Author A,Fantasy,4.09
+658,Book 969,Author D,Biography,2.24
+659,Book 163,Author D,Mystery,1.93
+660,Book 909,Author E,Fantasy,2.83
+661,Book 153,Author E,Non-Fiction,4.13
+662,Book 802,Author E,Science Fiction,4.84
+663,Book 994,Author C,Science Fiction,4.05
+664,Book 756,Author D,Biography,4.42
+665,Book 112,Author C,Non-Fiction,3.41
+666,Book 227,Author A,Biography,4.34
+667,Book 689,Author E,Non-Fiction,4.14
+668,Book 104,Author C,Mystery,2.51
+669,Book 422,Author C,Science Fiction,3.21
+670,Book 420,Author A,Science Fiction,4.22
+671,Book 751,Author B,Mystery,1.18
+672,Book 587,Author D,Fiction,4.23
+673,Book 781,Author B,Biography,1.71
+674,Book 673,Author E,Mystery,3.06
+675,Book 120,Author C,Biography,4.23
+676,Book 54,Author A,Fantasy,2.02
+677,Book 152,Author A,Science Fiction,1.98
+678,Book 404,Author D,Biography,2.61
+679,Book 946,Author B,Non-Fiction,4.58
+680,Book 208,Author D,Biography,1.0
+681,Book 659,Author C,Fantasy,4.61
+682,Book 844,Author D,Science Fiction,1.62
+683,Book 763,Author A,Mystery,4.96
+684,Book 9,Author A,Fantasy,4.82
+685,Book 808,Author E,Science Fiction,2.98
+686,Book 37,Author E,Biography,3.05
+687,Book 453,Author C,Fiction,2.93
+688,Book 652,Author B,Fiction,3.54
+689,Book 254,Author D,Non-Fiction,1.36
+690,Book 304,Author C,Science Fiction,1.13
+691,Book 747,Author E,Fiction,1.23
+692,Book 572,Author D,Mystery,2.78
+693,Book 624,Author E,Science Fiction,2.1
+694,Book 733,Author D,Mystery,3.49
+695,Book 892,Author B,Mystery,4.97
+696,Book 263,Author C,Fiction,2.55
+697,Book 611,Author D,Science Fiction,3.3
+698,Book 298,Author A,Biography,2.66
+699,Book 415,Author A,Fantasy,4.39
+700,Book 151,Author D,Fiction,4.61
+701,Book 789,Author D,Fiction,4.51
+702,Book 641,Author D,Biography,4.9
+703,Book 890,Author A,Science Fiction,1.11
+704,Book 551,Author A,Science Fiction,4.36
+705,Book 887,Author D,Mystery,4.01
+706,Book 489,Author E,Biography,1.91
+707,Book 148,Author E,Biography,4.83
+708,Book 147,Author B,Science Fiction,1.59
+709,Book 721,Author C,Mystery,3.72
+710,Book 932,Author E,Fiction,1.9
+711,Book 740,Author A,Non-Fiction,2.73
+712,Book 660,Author E,Fantasy,3.88
+713,Book 349,Author B,Fiction,3.25
+714,Book 464,Author B,Science Fiction,2.71
+715,Book 326,Author C,Fantasy,2.31
+716,Book 187,Author E,Non-Fiction,4.36
+717,Book 124,Author A,Non-Fiction,1.58
+718,Book 854,Author A,Mystery,2.72
+719,Book 609,Author D,Fantasy,4.62
+720,Book 144,Author A,Mystery,4.38
+721,Book 959,Author C,Fiction,2.6
+722,Book 198,Author C,Biography,4.05
+723,Book 610,Author A,Biography,4.29
+724,Book 280,Author A,Biography,4.56
+725,Book 294,Author D,Fantasy,3.18
+726,Book 401,Author A,Biography,1.82
+727,Book 123,Author D,Fiction,2.02
+728,Book 184,Author D,Mystery,2.18
+729,Book 203,Author A,Fantasy,3.38
+730,Book 439,Author B,Mystery,1.13
+731,Book 247,Author B,Fantasy,3.54
+732,Book 416,Author D,Mystery,2.46
+733,Book 933,Author A,Non-Fiction,2.18
+734,Book 766,Author B,Mystery,4.52
+735,Book 907,Author A,Biography,2.84
+736,Book 836,Author A,Non-Fiction,1.38
+737,Book 888,Author A,Mystery,4.31
+738,Book 130,Author E,Fantasy,1.19
+739,Book 638,Author A,Fantasy,3.91
+740,Book 403,Author E,Fantasy,4.1
+741,Book 785,Author D,Science Fiction,2.41
+742,Book 771,Author B,Fiction,4.3
+743,Book 736,Author B,Fantasy,3.06
+744,Book 914,Author B,Non-Fiction,2.85
+745,Book 220,Author B,Fantasy,1.18
+746,Book 642,Author B,Science Fiction,2.16
+747,Book 916,Author B,Biography,4.72
+748,Book 753,Author B,Non-Fiction,2.57
+749,Book 807,Author D,Science Fiction,3.19
+750,Book 920,Author A,Biography,3.13
+751,Book 625,Author C,Non-Fiction,3.36
+752,Book 875,Author E,Mystery,1.25
+753,Book 761,Author C,Fiction,2.45
+754,Book 387,Author C,Fiction,3.89
+755,Book 973,Author A,Science Fiction,1.8
+756,Book 510,Author A,Biography,1.81
+757,Book 268,Author A,Fiction,1.04
+758,Book 820,Author B,Biography,2.75
+759,Book 442,Author D,Biography,4.53
+760,Book 497,Author B,Science Fiction,1.21
+761,Book 113,Author D,Science Fiction,1.76
+762,Book 692,Author D,Science Fiction,2.24
+763,Book 233,Author C,Fiction,3.93
+764,Book 870,Author C,Science Fiction,3.56
+765,Book 608,Author D,Fiction,2.66
+766,Book 672,Author D,Science Fiction,4.04
+767,Book 374,Author B,Fantasy,3.44
+768,Book 982,Author B,Biography,4.58
+769,Book 843,Author C,Science Fiction,4.27
+770,Book 234,Author A,Non-Fiction,2.01
+771,Book 786,Author D,Biography,2.09
+772,Book 677,Author B,Biography,1.5
+773,Book 318,Author C,Science Fiction,2.35
+774,Book 649,Author B,Mystery,5.0
+775,Book 411,Author D,Science Fiction,2.62
+776,Book 899,Author D,Biography,1.88
+777,Book 710,Author E,Non-Fiction,4.05
+778,Book 359,Author A,Biography,3.17
+779,Book 259,Author E,Non-Fiction,1.6
+780,Book 745,Author C,Fiction,2.52
+781,Book 628,Author B,Fantasy,2.66
+782,Book 633,Author C,Biography,4.02
+783,Book 283,Author D,Science Fiction,1.08
+784,Book 377,Author E,Fiction,2.08
+785,Book 385,Author E,Fantasy,3.07
+786,Book 225,Author E,Science Fiction,2.08
+787,Book 954,Author C,Mystery,3.51
+788,Book 815,Author D,Science Fiction,2.93
+789,Book 473,Author B,Non-Fiction,2.45
+790,Book 348,Author B,Non-Fiction,4.8
+791,Book 506,Author C,Mystery,3.53
+792,Book 640,Author E,Fiction,1.52
+793,Book 988,Author A,Fantasy,3.24
+794,Book 929,Author C,Science Fiction,4.12
+795,Book 906,Author C,Non-Fiction,3.83
+796,Book 620,Author D,Fiction,1.69
+797,Book 856,Author B,Mystery,4.89
+798,Book 804,Author C,Biography,2.8
+799,Book 646,Author C,Non-Fiction,1.64
+800,Book 847,Author E,Mystery,1.72
+801,Book 557,Author E,Science Fiction,1.39
+802,Book 958,Author A,Fantasy,4.21
+803,Book 578,Author D,Non-Fiction,1.49
+804,Book 796,Author A,Non-Fiction,1.5
+805,Book 86,Author E,Science Fiction,4.4
+806,Book 243,Author B,Biography,2.38
+807,Book 699,Author E,Fiction,1.12
+808,Book 160,Author D,Fantasy,1.21
+809,Book 525,Author E,Non-Fiction,1.57
+810,Book 36,Author D,Fantasy,1.85
+811,Book 541,Author D,Non-Fiction,3.66
+812,Book 171,Author D,Fantasy,1.63
+813,Book 655,Author D,Mystery,1.48
+814,Book 891,Author D,Non-Fiction,4.06
+815,Book 858,Author B,Fantasy,3.68
+816,Book 848,Author A,Fiction,2.74
+817,Book 945,Author C,Mystery,3.2
+818,Book 734,Author A,Mystery,2.25
+819,Book 96,Author D,Fiction,2.93
+820,Book 564,Author B,Fantasy,3.03
+821,Book 241,Author E,Science Fiction,2.55
+822,Book 743,Author B,Fiction,4.63
+823,Book 575,Author D,Fantasy,1.06
+824,Book 691,Author B,Fiction,4.13
+825,Book 461,Author B,Fiction,1.5
+826,Book 554,Author D,Non-Fiction,4.19
+827,Book 889,Author B,Fantasy,3.46
+828,Book 207,Author C,Science Fiction,4.37
+829,Book 393,Author C,Non-Fiction,1.39
+830,Book 795,Author B,Fiction,3.24
+831,Book 398,Author E,Biography,3.0
+832,Book 767,Author D,Fiction,3.82
+833,Book 849,Author C,Fiction,3.14
+834,Book 218,Author E,Fantasy,3.16
+835,Book 5,Author B,Fantasy,2.72
+836,Book 769,Author E,Non-Fiction,2.24
+837,Book 643,Author A,Science Fiction,2.93
+838,Book 930,Author C,Non-Fiction,1.47
+839,Book 613,Author B,Mystery,4.85
+840,Book 739,Author D,Fiction,3.86
+841,Book 547,Author B,Biography,4.81
+842,Book 726,Author D,Fiction,1.91
+843,Book 684,Author B,Fiction,4.52
+844,Book 99,Author E,Non-Fiction,4.24
+845,Book 805,Author E,Biography,3.71
+846,Book 728,Author E,Biography,3.5
+847,Book 574,Author A,Biography,2.27
+848,Book 407,Author D,Non-Fiction,4.27
+849,Book 503,Author E,Fiction,3.01
+850,Book 48,Author A,Non-Fiction,1.28
+851,Book 33,Author D,Fantasy,2.25
+852,Book 780,Author B,Fantasy,4.74
+853,Book 840,Author A,Non-Fiction,4.4
+854,Book 201,Author C,Biography,4.93
+855,Book 135,Author A,Fiction,3.51
+856,Book 28,Author A,Non-Fiction,1.99
+857,Book 881,Author D,Non-Fiction,1.65
+858,Book 231,Author B,Non-Fiction,1.75
+859,Book 490,Author C,Mystery,1.08
+860,Book 773,Author E,Fantasy,2.56
+861,Book 379,Author E,Biography,1.77
+862,Book 289,Author A,Science Fiction,2.65
+863,Book 419,Author D,Biography,4.74
+864,Book 675,Author D,Science Fiction,2.72
+865,Book 392,Author E,Mystery,4.51
+866,Book 593,Author C,Non-Fiction,3.42
+867,Book 499,Author B,Mystery,1.99
+868,Book 139,Author C,Mystery,2.42
+869,Book 63,Author B,Fiction,1.34
+870,Book 472,Author E,Fantasy,2.33
+871,Book 648,Author B,Science Fiction,3.71
+872,Book 129,Author D,Non-Fiction,1.29
+873,Book 977,Author A,Science Fiction,1.82
+874,Book 521,Author A,Biography,2.53
+875,Book 839,Author E,Science Fiction,4.93
+876,Book 963,Author D,Biography,4.14
+877,Book 65,Author C,Fantasy,3.93
+878,Book 813,Author D,Biography,1.46
+879,Book 15,Author A,Science Fiction,4.12
+880,Book 157,Author A,Science Fiction,4.14
+881,Book 41,Author D,Biography,3.4
+882,Book 493,Author D,Mystery,4.96
+883,Book 380,Author A,Fantasy,2.3
+884,Book 188,Author C,Fiction,4.77
+885,Book 764,Author E,Non-Fiction,4.66
+886,Book 217,Author E,Science Fiction,1.05
+887,Book 792,Author D,Non-Fiction,2.8
+888,Book 53,Author E,Fiction,4.91
+889,Book 879,Author A,Non-Fiction,1.41
+890,Book 338,Author A,Fiction,3.19
+891,Book 749,Author D,Biography,4.92
+892,Book 720,Author D,Mystery,3.22
+893,Book 725,Author D,Science Fiction,1.76
+894,Book 296,Author C,Fiction,3.33
+895,Book 702,Author E,Non-Fiction,1.82
+896,Book 252,Author D,Science Fiction,3.08
+897,Book 727,Author B,Mystery,1.3
+898,Book 462,Author B,Biography,3.42
+899,Book 456,Author A,Science Fiction,3.07
+900,Book 997,Author E,Fiction,3.96
+901,Book 816,Author D,Mystery,3.52
+902,Book 863,Author B,Non-Fiction,3.2
+903,Book 270,Author E,Mystery,3.76
+904,Book 202,Author A,Mystery,1.58
+905,Book 162,Author C,Fantasy,3.38
+906,Book 556,Author E,Mystery,1.69
+907,Book 730,Author E,Mystery,4.7
+908,Book 402,Author C,Science Fiction,1.27
+909,Book 703,Author E,Non-Fiction,2.72
+910,Book 477,Author A,Science Fiction,3.78
+911,Book 822,Author A,Science Fiction,2.83
+912,Book 772,Author C,Fiction,1.37
+913,Book 106,Author D,Science Fiction,3.21
+914,Book 566,Author B,Fantasy,3.57
+915,Book 390,Author D,Fantasy,3.82
+916,Book 2,Author E,Fiction,2.49
+917,Book 938,Author B,Biography,3.25
+918,Book 983,Author C,Non-Fiction,2.8
+919,Book 562,Author C,Non-Fiction,3.69
+920,Book 81,Author B,Science Fiction,3.33
+921,Book 206,Author A,Science Fiction,3.1
+922,Book 35,Author B,Biography,2.0
+923,Book 776,Author E,Science Fiction,1.01
+924,Book 509,Author A,Non-Fiction,1.7
+925,Book 428,Author C,Mystery,1.47
+926,Book 455,Author B,Fantasy,2.8
+927,Book 367,Author D,Mystery,3.45
+928,Book 92,Author D,Mystery,1.85
+929,Book 340,Author E,Non-Fiction,4.76
+930,Book 898,Author D,Mystery,1.03
+931,Book 565,Author B,Biography,4.09
+932,Book 346,Author B,Fiction,3.5
+933,Book 777,Author D,Science Fiction,2.49
+934,Book 242,Author B,Fiction,1.2
+935,Book 14,Author E,Fantasy,3.51
+936,Book 316,Author A,Science Fiction,2.54
+937,Book 601,Author E,Mystery,4.75
+938,Book 388,Author E,Fantasy,3.17
+939,Book 274,Author B,Science Fiction,4.76
+940,Book 167,Author A,Biography,1.88
+941,Book 841,Author B,Biography,3.9
+942,Book 993,Author C,Biography,3.47
+943,Book 647,Author B,Biography,3.96
+944,Book 819,Author B,Mystery,1.86
+945,Book 485,Author B,Fiction,3.66
+946,Book 981,Author A,Science Fiction,2.99
+947,Book 505,Author B,Mystery,3.97
+948,Book 832,Author A,Biography,2.31
+949,Book 244,Author D,Fiction,4.56
+950,Book 567,Author C,Fantasy,1.34
+951,Book 876,Author A,Fantasy,4.23
+952,Book 563,Author D,Fantasy,4.45
+953,Book 687,Author A,Biography,4.27
+954,Book 190,Author A,Fantasy,3.05
+955,Book 783,Author C,Non-Fiction,2.75
+956,Book 700,Author E,Science Fiction,4.99
+957,Book 476,Author E,Science Fiction,1.92
+958,Book 682,Author A,Biography,3.19
+959,Book 511,Author B,Non-Fiction,3.68
+960,Book 59,Author D,Mystery,3.8
+961,Book 475,Author B,Mystery,1.82
+962,Book 561,Author B,Fantasy,3.62
+963,Book 857,Author A,Fiction,4.27
+964,Book 748,Author A,Mystery,1.2
+965,Book 253,Author A,Fiction,4.65
+966,Book 22,Author A,Science Fiction,1.12
+967,Book 314,Author E,Fiction,2.42
+968,Book 460,Author A,Science Fiction,1.06
+969,Book 161,Author E,Non-Fiction,1.31
+970,Book 277,Author E,Non-Fiction,4.64
+971,Book 956,Author A,Biography,2.42
+972,Book 192,Author C,Biography,2.7
+973,Book 386,Author D,Fantasy,1.86
+974,Book 806,Author B,Mystery,3.39
+975,Book 414,Author E,Fantasy,3.38
+976,Book 492,Author D,Science Fiction,2.49
+977,Book 344,Author C,Fantasy,2.33
+978,Book 770,Author B,Fiction,4.54
+979,Book 309,Author B,Science Fiction,2.53
+980,Book 662,Author E,Biography,2.97
+981,Book 131,Author A,Non-Fiction,2.13
+982,Book 664,Author C,Biography,4.15
+983,Book 872,Author E,Mystery,2.59
+984,Book 100,Author C,Science Fiction,3.05
+985,Book 373,Author A,Science Fiction,2.01
+986,Book 88,Author A,Fiction,4.95
+987,Book 459,Author E,Mystery,2.17
+988,Book 331,Author A,Non-Fiction,4.08
+989,Book 215,Author D,Science Fiction,2.71
+990,Book 467,Author B,Science Fiction,1.82
+991,Book 122,Author E,Fiction,4.2
+992,Book 615,Author C,Fantasy,2.33
+993,Book 21,Author D,Non-Fiction,4.46
+994,Book 701,Author E,Biography,4.66
+995,Book 72,Author A,Mystery,4.44
+996,Book 107,Author A,Science Fiction,1.14
+997,Book 271,Author A,Science Fiction,4.15
+998,Book 861,Author A,Biography,2.65
+999,Book 436,Author C,Non-Fiction,4.49
+1000,Book 103,Author D,Fantasy,3.55
